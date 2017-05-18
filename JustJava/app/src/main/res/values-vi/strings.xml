@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Chì là Java</string>
+    <string name="chocolate">Sô cô la</string>
+    <string name="initial_price_value">0</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="name">Họ tên</string>
+    <string name="order">Đặt hàng</string>
+    <string name="order_summary">Thông tin đặt hàng</string>
+    <string name="order_summary_chocolate">Thêm vào sôcôla ? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_email_subject">Just java Chủ đề: <xliff:g id="name" example="VuNguyen"></xliff:g>%s</string>
+    <string name="order_summary_name">"Tên: <xliff:g id="name" example="VuNguyen">%s</xliff:g> "</string>
+    <string name="order_summary_price">Tổng cộng: <xliff:g id="price" example="10000 VND">%s</xliff:g>đ</string>
+    <string name="order_summary_quantity">Số lượng: <xliff:g id="quantity">%d</xliff:g></string>
+    <string name="order_summary_whipped_cream">Thêm vào kem phủ ?<xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="quantity">Sô lượng</string>
+    <string name="thank_you">Cảm ơn !</string>
+    <string name="toppings">Lớp phủ</string>
+    <string name="whipped_cream">Kem phủ</string>
+    <string name="order_summary_email_subject">Just java subject: <xliff:g id="name" example="VuNguyen">%s</xliff:g></string>
+
+</resources>
